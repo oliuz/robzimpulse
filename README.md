@@ -5,5 +5,5 @@
 - 💬 Pull request and issues are welcome
 - 📫 How to reach me: [Telegram](https://t.me/robzimpulse)
 
-[![robzimpulse's github stats](https://github-readme-stats.vercel.app/api?username=robzimpulse&include_all_commits=true&count_private=true&show_icons=true&icon_color=333&hide_border=true)](https://github.com/robzimpulse)
-[![robzimpulse's preferred language](https://github-readme-stats.vercel.app/api/top-langs/?username=robzimpulse&include_all_commits=true&count_private=true&layout=compact&&hide_border=true)](https://github.com/robzimpulse)
+[![robzimpulse's github stats](https://github-readme-stats.robzimpulse.vercel.app/api?username=robzimpulse&include_all_commits=true&count_private=true&show_icons=true&icon_color=333&hide_border=true)](https://github.com/robzimpulse)
+[![robzimpulse's preferred language](https://github-readme-stats.robzimpulse.vercel.app/api/top-langs/?username=robzimpulse&include_all_commits=true&count_private=true&layout=compact&&hide_border=true)](https://github.com/robzimpulse)
