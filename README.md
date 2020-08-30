@@ -5,4 +5,9 @@
 - 💬 Pull request and issues are welcome
 - 📫 How to reach me: [Telegram](https://t.me/robzimpulse)
 
-[![robzimpulse's github stats](https://github-readme-stats.vercel.app/api?username=robzimpulse&include_all_commits=true&count_private=true&title_color=333&text_color=777&show_icons=true&icon_color=333&hide_border=true)](https://github.com/robzimpulse)
+<a href="https://github.com/robzimpulse">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=robzimpulse&include_all_commits=true&count_private=true&title_color=333&text_color=777&show_icons=true&icon_color=333&hide_border=true" />
+</a>
+<a href="https://github.com/robzimpulse">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robzimpulse&layout=compact" />
+</a>
